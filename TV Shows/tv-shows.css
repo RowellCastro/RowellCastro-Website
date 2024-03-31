@@ -1,0 +1,106 @@
+#tvshow-page {
+    margin: 0px;
+    padding: 0px;
+    background-color: #F1F6F9; 
+}
+
+#movie-page {
+    margin: 0px;
+    padding: 0px;
+    background-color: #F1F6F9; 
+}
+
+.title h1 {
+    font-size: 45px; 
+    font-family: Georgia; 
+    color: #2c2c2c;
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+.tv-show {
+    position: center;
+}
+
+.clip {
+    display: flex;
+}
+
+.clip1 {
+    display: flex;
+    background-color: #e0e0e0;
+}
+
+.video {
+    margin: 30px;
+    text-align: center;
+}
+
+.clip-title {
+    text-decoration: none;
+    color: #2c2c2c;
+    font-family: Georgia;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+figcaption {
+    font-family: Arial;
+    font-size: 14px;
+    color: #2c2c2c;
+    text-align: center;
+}
+
+video {
+    width: 700px;
+    height: auto;
+    border-radius: 20px;
+}
+
+.description {
+    margin: 50px;
+}
+
+.description h3 {
+    font-family: Georgia;
+    font-size: 20px;
+    color: #2c2c2c;
+}
+
+.description p {
+    font-family: Arial;
+    font-size: 14px;
+    color: #2c2c2c;
+    text-align: justify;
+}
+
+.OGGY {
+    width: 350px;
+    height: auto;
+}
+
+.poster {
+    width: 150px;
+    height: auto;
+}
+
+.bottom-nav {
+    height: 40px;
+    width: 100%;
+    background-color: #2c2c2c;
+}
+.container {
+    text-align: right;
+    padding: 10px 20px 5px 5px;
+}
+#go-back {
+    margin: 5px 5px 5px 5px;
+    color: #F1F6F9;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Georgia;
+}
+#go-back:hover {
+    color: #6d6d6d;
+}
